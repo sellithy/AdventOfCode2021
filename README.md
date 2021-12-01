@@ -1,2 +1,2 @@
-# AdventOfCode2021
+# Advent Of Code 2021
 Solutions to Advent of Code 2021 in Kotlin 
